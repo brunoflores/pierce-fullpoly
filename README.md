@@ -63,5 +63,5 @@ Notes from [^2]:
 > whether there is any assignment of types to variables that makes the 
 > expression well-typed.
 
-[^1] [Types and Programming Languages by Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl).
-[^2] [An Introduction to Polymorphic Lambda Calculus by John C. Reynolds](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.7.9916):
+[^1]: [Types and Programming Languages by Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/tapl).
+[^2]: [An Introduction to Polymorphic Lambda Calculus by John C. Reynolds](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.7.9916):
