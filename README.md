@@ -29,3 +29,17 @@ Or, build and execute in one command:
 ```
 dune exec ./bin/main.exe -- test/test.f
 ```
+
+A note from the book:
+
+> _Parametric polymorphism_, the topic of this chapter, allows a single piece of
+> code to be typed "generically", using variables in place of actual types, and
+> then instantiated with particular types as needed. Parametric definitions
+> are _uniform_: all of their instances behave the same.
+>
+> The most powerful form of parametric polymorphism is the _impredicative_
+> or _first-class polymorphism_ developed in this chapter. More common
+> in practice is the form known as _ML-style_ or _let-polymorphism_, which
+> restricts polymorphism to top-level `let`-bindings, disallowing functions that
+> take polymorphic values as arguments, and obtains in return a convenient
+> and natural form of automatic _type reconstruction_.
