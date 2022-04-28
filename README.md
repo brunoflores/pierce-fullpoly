@@ -3,17 +3,19 @@
 The `fullpoly` implementation from 
 [Benjamin C. Pierce's book Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl).
 
+The system studied in this chapter is pure System F.
+
 I've made small changes to:
 1. Compile it with current OCaml versions, and
 2. Build with Dune.
 
-Dependencies are locked. Install them:
+Install locked dependencies:
 
 ```
 $ opam install . --locked --deps-only
 ```
 
-Build the binary:
+Build binary:
 
 ```
 $ dune clean; dune build
